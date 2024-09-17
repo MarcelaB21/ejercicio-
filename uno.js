@@ -1,4 +1,4 @@
-function teGusto(){
+
     const  respuesta = prompt("te gusto ?:");
      if(respuesta==="si"){
           console.log( "Seras mi novia ");
@@ -8,4 +8,3 @@ function teGusto(){
            console.log("piensalo")
        }
    }
-   teGusto();
