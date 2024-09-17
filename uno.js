@@ -1,10 +1,10 @@
 
-    const  respuesta = prompt("te gusto ?:");
-     if(respuesta==="si"){
-          console.log( "Seras mi novia ");
-       }else if (respuesta==="no"){
-           console.log( "Entiendo ,solo amigos ");
+    const  respuesta = prompt("que tal tu dia  ?.....:");
+     if(respuesta==="pesimo "){
+          console.log( "No todo puedee ser malo ");
+       }else if (respuesta==="excelente "){
+           console.log( "Me alegro por ti ");
        }else{
-           console.log("piensalo")
+           console.log("Bueno es mejor asi")
        }
    }
